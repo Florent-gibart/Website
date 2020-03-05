@@ -1,8 +1,65 @@
 body{
-    background-image: url("../images/takashi.jpg");
-    background-attachment: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    display: block;
+}
+
+
+
+h1{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    height:650px;
+    width:auto;
+    background-image: url("../images/TMgif.gif");
+    background-attachment: scroll;
     background-position: center;
-    background-size: cover;
-    margin: 0;
+    background-size: 650px 800px;
+    font-style: italic;
     text-align: center;
+}
+
+h2{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-image: url("../images/moma.jpg");
+    height:1000px;
+    width:auto;
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: black;
+}
+
+h3{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-image: url("../images/DOBB.jpg");
+    background-attachment: scroll;
+    background-position: center;
+    background-size: 500px 400px;
+    height:400px;
+    width:auto;
+    text-align: center;
+}
+
+a{
+    text-align: center;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
 }
